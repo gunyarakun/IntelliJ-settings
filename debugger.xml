@@ -96,7 +96,7 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="com.fasterxml.jackson.*" />
+      <option name="PATTERN" value="com.fasterxml.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
